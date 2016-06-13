@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_dark"
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:id="@+id/linearLayout1">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="40"
+        android:id="@+id/demoImageView"
+        android:src="@drawable/logo2"
+        android:scaleType="centerCrop" />
+    <EditText
+        android:id="@+id/editText"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="SIGN IN"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:background="#368DEB"
+        android:id="@+id/buttonSignIn"
+        android:layout_marginRight="60dp"
+        android:layout_marginLeft="60dp"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="OR"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:textColor="#368DEB"
+        android:id="@+id/textOptional"
+        android:gravity="center" />
+    <Button
+        android:text="SIGN UP"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="#368DEB"
+        android:id="@+id/buttonSignUp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="20sp"
+        android:textColor="@android:color/background_light" />
+</LinearLayout>
