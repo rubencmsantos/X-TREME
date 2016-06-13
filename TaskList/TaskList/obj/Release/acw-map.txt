@@ -1,0 +1,4 @@
+TaskList.MainActivity, TaskList;md5f1ed2f1b86fff08681c10ad0756dd2c2.MainActivity
+TaskList.MainActivity, TaskList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f1ed2f1b86fff08681c10ad0756dd2c2.MainActivity
+TaskList.MainActivity;md5f1ed2f1b86fff08681c10ad0756dd2c2.MainActivity
+tasklist.MainActivity;md5f1ed2f1b86fff08681c10ad0756dd2c2.MainActivity

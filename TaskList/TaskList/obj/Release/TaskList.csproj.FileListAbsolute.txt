@@ -1,0 +1,17 @@
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\bin\Release\TaskList.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\bin\Release\TaskList.pdb
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\bin\Release\TaskList.TaskList.apk
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\bin\Release\TaskList.TaskList-Signed.apk
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\TaskList.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\TaskList.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\TaskList.pdb
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\android\bin\TaskList.TaskList.apk
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\res\layout\main.xml
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\res\drawable\icon.png
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\res\values\theme.xml
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\res\drawable\icon2.jpg
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\res\drawable\logo.jpg
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\R.cs.flag
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\uploadflags.txt
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\obj\Release\TaskList.dll.mdb
+C:\Users\Ruben\documents\visual studio 2015\Projects\TaskList\TaskList\bin\Release\TaskList.dll.mdb
