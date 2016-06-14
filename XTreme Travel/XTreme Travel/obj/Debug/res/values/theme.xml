@@ -1,1 +1,0 @@
-<resources><color name="theme_devicedefault_dialog_noactionbar_background">#ffababab</color><style name="Theme.Custom" parent="@android:style/Theme.DeviceDefault.Dialog.NoActionBar"><item name="android:colorBackground">@color/theme_devicedefault_dialog_noactionbar_background</item><item name="android:windowBackground">?android:attr/colorBackground</item></style></resources>
