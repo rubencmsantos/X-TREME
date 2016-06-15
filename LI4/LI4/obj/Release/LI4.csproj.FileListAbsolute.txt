@@ -1,0 +1,14 @@
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Release\LI4.dll
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Release\LI4.pdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Release\LI4.LI4.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Release\LI4.LI4-Signed.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\LI4.dll
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\LI4.pdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\android\bin\LI4.LI4.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\res\layout\main.xml
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\res\values\strings.xml
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\res\drawable\icon.png
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\R.cs.flag
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\uploadflags.txt
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Release\LI4.dll.mdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Release\LI4.dll.mdb

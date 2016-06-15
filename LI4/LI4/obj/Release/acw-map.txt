@@ -1,0 +1,4 @@
+LI4.MainActivity, LI4;md5728b24945ef221e551b0a3ae84d08a13.MainActivity
+LI4.MainActivity, LI4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5728b24945ef221e551b0a3ae84d08a13.MainActivity
+LI4.MainActivity;md5728b24945ef221e551b0a3ae84d08a13.MainActivity
+li4.MainActivity;md5728b24945ef221e551b0a3ae84d08a13.MainActivity

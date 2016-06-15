@@ -1,0 +1,15 @@
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Debug\LI4.dll
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Debug\LI4.pdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Debug\LI4.LI4.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Debug\LI4.LI4-Signed.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\LI4.dll
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\LI4.pdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\android\bin\LI4.LI4.apk
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\res\layout\main.xml
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\res\values\strings.xml
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\res\drawable\icon.png
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\R.cs.flag
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\uploadflags.txt
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\LI4.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\obj\Debug\LI4.dll.mdb
+C:\Users\Diogo\Documents\Visual Studio 2015\Projects\LI4\LI4\bin\Debug\LI4.dll.mdb
