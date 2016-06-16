@@ -2,7 +2,11 @@ C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\Mono.Android.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\mscorlib.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.Core.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.Data.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.Xml.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.Runtime.Serialization.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\System.Numerics.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\Mono.Data.Tds.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\android\assets\Mono.Security.dll

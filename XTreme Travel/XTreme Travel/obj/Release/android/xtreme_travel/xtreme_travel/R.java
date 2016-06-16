@@ -21,23 +21,35 @@ public final class R {
         public static final int login_text_style=0x7f020004;
         public static final int logo=0x7f020005;
         public static final int logo2=0x7f020006;
+        public static final int plus=0x7f020007;
     }
     public static final class id {
-        public static final int btnDialogEmail=0x7f070005;
-        public static final int buttonSignIn=0x7f070008;
-        public static final int buttonSignUp=0x7f07000a;
-        public static final int demoImageView=0x7f070007;
-        public static final int linearLayout1=0x7f070006;
-        public static final int textOptional=0x7f070009;
-        public static final int txtEmail=0x7f070003;
-        public static final int txtFirstName=0x7f070000;
-        public static final int txtLastName=0x7f070001;
-        public static final int txtNation=0x7f070002;
-        public static final int txtPassword=0x7f070004;
+        public static final int btnDialogEmail=0x7f070007;
+        public static final int buttonLogout=0x7f07000c;
+        public static final int buttonSignIn=0x7f07000f;
+        public static final int buttonSignUp=0x7f070011;
+        public static final int buttonUser=0x7f070013;
+        public static final int demoImageView=0x7f07000e;
+        public static final int linearLayout1=0x7f07000d;
+        public static final int linearLayout2=0x7f070012;
+        public static final int textInfo=0x7f070000;
+        public static final int textOptional=0x7f070010;
+        public static final int txtCurrentTrip=0x7f070008;
+        public static final int txtDate=0x7f070004;
+        public static final int txtEmail=0x7f070005;
+        public static final int txtFirstName=0x7f070001;
+        public static final int txtLastName=0x7f070002;
+        public static final int txtNation=0x7f070003;
+        public static final int txtPassword=0x7f070006;
+        public static final int txtSettings=0x7f07000a;
+        public static final int txtSettingsAp=0x7f07000b;
+        public static final int txtSync=0x7f070009;
     }
     public static final class layout {
         public static final int dialog_sign_up=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int dialog_user_menu=0x7f030001;
+        public static final int main=0x7f030002;
+        public static final int mainmenu=0x7f030003;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040001;

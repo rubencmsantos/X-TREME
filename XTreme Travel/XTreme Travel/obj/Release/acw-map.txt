@@ -1,3 +1,11 @@
+XTreme_Travel.dialog_UserMenu, XTreme Travel;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_UserMenu
+XTreme_Travel.dialog_UserMenu, XTreme Travel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_UserMenu
+XTreme_Travel.dialog_UserMenu;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_UserMenu
+xtreme_travel.dialog_UserMenu;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_UserMenu
+XTreme_Travel.MainMenu, XTreme Travel;md5b8a21999999ed2ab2298bf3f8ebd0fae.MainMenu
+XTreme_Travel.MainMenu, XTreme Travel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8a21999999ed2ab2298bf3f8ebd0fae.MainMenu
+XTreme_Travel.MainMenu;md5b8a21999999ed2ab2298bf3f8ebd0fae.MainMenu
+xtreme_travel.MainMenu;md5b8a21999999ed2ab2298bf3f8ebd0fae.MainMenu
 XTreme_Travel.dialog_SignUp, XTreme Travel;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_SignUp
 XTreme_Travel.dialog_SignUp, XTreme Travel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_SignUp
 XTreme_Travel.dialog_SignUp;md5b8a21999999ed2ab2298bf3f8ebd0fae.dialog_SignUp

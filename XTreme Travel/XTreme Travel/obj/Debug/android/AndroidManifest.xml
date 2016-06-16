@@ -4,7 +4,8 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="XTreme_Travel" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/logo" android:debuggable="true">
+  <application android:label="XTreme_Travel" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="MainMenu" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name="md5b8a21999999ed2ab2298bf3f8ebd0fae.MainMenu" />
     <activity android:icon="@drawable/logo" android:label="XTreme_Travel" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name="md5b8a21999999ed2ab2298bf3f8ebd0fae.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

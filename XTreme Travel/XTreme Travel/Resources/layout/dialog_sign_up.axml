@@ -5,8 +5,18 @@
     android:layout_height="fill_parent"
     android:minWidth="300dp"
     android:minHeight="400dp">
+    <TextView
+        android:text="INTRODUZA OS SEUS DADOS"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textColor="#696969"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/textInfo" />
     <EditText
         android:id="@+id/txtFirstName"
+        android:layout_below="@id/textInfo"
         android:layout_width="match_parent"
         android:layout_height="35dp"
         android:background="@drawable/edit_text_style"
@@ -42,7 +52,20 @@
         android:paddingLeft="10dp"
         android:textColor="#000" />
     <EditText
+        android:inputType="date"
         android:layout_below="@id/txtNation"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/txtDate"
+        android:background="@drawable/edit_text_style"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:hint="Data de Nascimento"
+        android:paddingLeft="10dp"
+        android:textColor="#000" />
+    <EditText
+        android:layout_below="@id/txtDate"
         android:inputType="textEmailAddress"
         android:layout_width="match_parent"
         android:layout_height="35dp"
@@ -70,7 +93,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/txtPassword"
-        android:layout_marginTop="50dp">
+        android:layout_marginTop="20dp">
         <Button
             android:text="SIGN UP"
             android:layout_width="match_parent"
@@ -79,7 +102,7 @@
             android:textSize="20dp"
             android:textColor="#fff"
             android:textStyle="normal"
-            android:height="70dp"
+            android:height="60dp"
             android:background="@drawable/ButtonSignUpStyle"
             android:layout_centerHorizontal="true"
             android:layout_marginLeft="30dp" />

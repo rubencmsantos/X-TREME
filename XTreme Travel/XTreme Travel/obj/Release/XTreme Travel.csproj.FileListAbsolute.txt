@@ -18,5 +18,9 @@ C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\res\drawable\login_text_style.xml
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\R.cs.flag
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\uploadflags.txt
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\res\layout\mainmenu.xml
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\res\layout\dialog_user_menu.xml
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\res\drawable\plus.jpg
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\XTreme Travel.csprojResolveAssemblyReference.cache
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Release\XTreme Travel.dll.mdb
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\bin\Release\XTreme Travel.dll.mdb

@@ -1,9 +1,16 @@
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\XTreme Travel.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\Mono.Data.Sqlite.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\mscorlib.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Core.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Data.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Data.Services.Client.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Xml.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Xml.Linq.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Runtime.Serialization.dll
 C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Transactions.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\System.Numerics.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\Ruben\documents\visual studio 2015\Projects\XTreme Travel\XTreme Travel\obj\Debug\assemblies\Mono.Security.dll
